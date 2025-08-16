@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DXVDH3bM6+PtwfBANet80uYiyplKUGpRG2umxq43EtA=",
+  "Source": "BPIBankSystem.API",
+  "BasePath": "_content/BPIBankSystem.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
